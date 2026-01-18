@@ -8,7 +8,7 @@
 ### more about me
 
 *🔭 I’m currently working on:* artwork and assets for a game collaboration project  
-*📫 How to reach me:* ssoria@ualberta
+*📫 How to reach me:* ssoria@ualberta.ca
 
 
 <!--
